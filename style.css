@@ -11,8 +11,9 @@ body {
 }
 main {
     background-color: rgba(0, 0, 0, 0.3);
-    padding-bottom: 50px;
-    margin: auto;
+    padding: 10px 0 40px 0;
+    max-width: 1240px;
+    margin: 30px auto 30px auto;
 }
 form {
   background-color: rgba(0, 0, 0, 0.8);
